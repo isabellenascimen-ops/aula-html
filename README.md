@@ -1,25 +1,33 @@
 # Aula HTML & CSS - SENAI
 
-Repositório de exercícios e projetos práticos da disciplina **Fundamentos de Lógica de Programação** e **Desenvolvimento de Interfaces** do curso Técnico em Desenvolvimento de Sistemas no **SENAI/SC - Joinville**.
+Repositório de **exercícios e projetos práticos** da disciplina de Fundamentos de Lógica de Programação e Desenvolvimento de Interfaces do curso **Técnico em Desenvolvimento de Sistemas** no SENAI/SC - Joinville.
 
-### 🎯 Sobre o Repositório
-Este repositório contém todas as atividades, exercícios e mini-projetos desenvolvidos durante o curso. O foco principal é o aprendizado de **HTML5**, **CSS3** e boas práticas de desenvolvimento web.
+### 🎯 Sobre o Projeto
+Aqui estão todas as atividades práticas realizadas durante o curso, focadas em:
+- HTML5 semântico
+- CSS3 e estilização avançada
+- Formulários, tabelas, navegação e layouts responsivos
 
 ### 🛠 Tecnologias Utilizadas
 - HTML5
 - CSS3
-- Git e GitHub
-- Responsive Design (Mobile First)
+- Normalize.css
+- Git & GitHub
 
-### 📂 Projetos e Exercícios
-- Estrutura semântica de páginas
-- Formulários e validações
-- Layouts responsivos
-- Estilização avançada com CSS
-- Mini-projetos práticos
+### 📁 Exercícios Desenvolvidos
 
-### 📌 Objetivo
-Demonstrar o progresso no aprendizado de desenvolvimento front-end e aplicar os conceitos aprendidos em projetos reais.
+**Formulários**
+- `FORM1.html` – Formulário de contato básico
+- `FORM2.html` – Formulário mais completo
+
+**Tabelas**
+- `tabela1.html`, `tabela2.html`, `tabela3.html` – Exercícios de tabelas HTML
+
+**Navegação**
+- `TABS2.html` – Página com sistema de abas
+
+### 📌 Como visualizar
+Basta abrir qualquer arquivo `.html` diretamente no navegador.
 
 ---
 
@@ -28,8 +36,4 @@ Demonstrar o progresso no aprendizado de desenvolvimento front-end e aplicar os 
 **Instituição:** SENAI/SC - Joinville  
 **Período:** 2025
 
----
-
-⭐ Sinta-se à vontade para explorar os arquivos!
-
-Qualquer dúvida ou sugestão, é só entrar em contato.
+⭐ Este repositório demonstra meu primeiro contato prático com desenvolvimento web.
